@@ -11,12 +11,12 @@ Este repositório contém as soluções que desenvolvi durante minha jornada na 
 
 ### 💻 C Language
 
-- `C00` — Funções básicas, `printf`, manipulação de caracteres.
+- `C00` — Funções básicas, `write`, manipulação de caracteres.
 - `C01` — Condições, loops, operadores e estruturas básicas.
 - `C02` — Arrays, ponteiros simples, manipulação de strings.
 - `C03` — Funções com strings, ponteiros duplos, manipulação de memória.
 - `C04` — Funções matemáticas, recursividade.
-- `C06` — Manipulação avançada de ponteiros, alocação dinâmica e revisão dos conceitos anteriores.
+- `C06` — Manipulação avançada de ponteiros, alocação dinâmica e revisão dos conceitos anteriores,`argc e argv`.
 
 > ❌ **C05 ainda em andamento** — Foco, força e café... em breve por aqui ☕
 
