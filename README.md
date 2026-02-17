@@ -1,6 +1,6 @@
-# 🧠 42 Piscine - Desafios Resolvidos
+# 🧠  Piscine - Desafios Atualizados
 
-Este repositório contém as soluções que desenvolvi durante minha jornada na Piscine da [42 SP](https://www.42sp.org.br/), uma experiência intensa e transformadora de 28 dias. Aqui estão os exercícios e projetos que me ajudaram a evoluir como programadora e a entender o poder da colaboração, da persistência e da lógica.
+Este repositório contém as soluções que desenvolvi durante minha jornada na Piscine 42, uma experiência intensa e transformadora de 26 dias. Aqui estão os exercícios e projetos que me ajudaram a evoluir como programadora e a entender o poder da colaboração, da persistência e da lógica.
 
 ## 🧰 Listas Resolvidas
 
@@ -16,9 +16,10 @@ Este repositório contém as soluções que desenvolvi durante minha jornada na 
 - `C02` — Arrays, ponteiros simples, manipulação de strings.
 - `C03` — Funções com strings, ponteiros duplos, manipulação de memória.
 - `C04` — Funções matemáticas, recursividade.
+- `C05` — Funções matemáticas, fibonacci (amoo).
 - `C06` — Manipulação avançada de ponteiros, alocação dinâmica e revisão dos conceitos anteriores,`argc e argv`.
 
-> ❌ **C05 ainda em andamento** — Foco, força e café... em breve por aqui ☕
+> ❌ **C07 ainda em andamento** — Foco, força e café... em breve por aqui ☕
 
 ---
 
