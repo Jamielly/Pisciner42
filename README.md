@@ -1,6 +1,6 @@
-# 🧠  Piscine - Desafios Atualizados
+# 🧠  Piscine - Desafios Atualizados 2026
 
-Este repositório contém as soluções que desenvolvi durante minha jornada na Piscine 42, uma experiência intensa e transformadora de 26 dias. Aqui estão os exercícios e projetos que me ajudaram a evoluir como programadora e a entender o poder da colaboração, da persistência e da lógica.
+Este repositório contém as soluções que desenvolvi durante minha jornada como Pisciner, uma experiência intensa e transformadora de 26 dias. Aqui estão os exercícios e projetos que me ajudaram a evoluir como programadora e a entender o poder da colaboração, da persistência e da lógica.
 
 ## 🧰 Listas Resolvidas
 
