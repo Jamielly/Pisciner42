@@ -1,7 +1,7 @@
 # 🧠  Piscine - Desafios
 
 Este repositório contém as soluções que desenvolvi durante minha jornada como Pisciner, uma experiência intensa e transformadora de 26 dias. Aqui estão os exercícios e projetos que me ajudaram a evoluir como programadora e a entender o poder da colaboração, da persistência e da lógica.
-- `Atualização` — Piscina - atualizados 2026.
+- `Atualização` — na pasta "Piscina" - possui os atualizados 2026.
 
 ## 🧰 Listas Resolvidas
 
